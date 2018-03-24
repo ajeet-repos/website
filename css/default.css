@@ -1,0 +1,71 @@
+div {
+    height:850px;
+    width:1024px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    vertical-align: middle;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.mainContainer {
+    background-image: url("/svgs/minor_grid_lines.svg");
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.subContainer {
+    height:850px;
+    width:1024px;
+    position: relative;
+    margin: auto;
+}
+
+.div-17 {
+    margin: auto;
+    width: 100%;
+    vertical-align: bottom;
+    text-align: center;
+}
+
+.chart {
+    margin:0;
+    list-style:none;
+    padding:0;
+    display: inline;
+}
+
+.x {
+    position: relative;
+    height: 1px;
+    width: 240px;
+    padding: 5px;
+}
+
+img {
+    margin:0;
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.helper-2 {
+    display: inline-block;
+    height: 100%;
+    vertical-align: bottom;
+}
+
+.st3 {
+    vertical-align: bottom;
+    height: 20px;
+    width:20px;
+}

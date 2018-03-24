@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+body {
+    margin: 0;
+    width: auto;
+    height: auto;
+    text-align: center;
+    background-color: #0084E9;
+}
