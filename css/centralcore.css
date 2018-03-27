@@ -1,4 +1,4 @@
-div {
+#central_core div {
     height:850px;
     width:1024px;
     position: absolute;
@@ -10,27 +10,7 @@ div {
     text-align: center;
 }
 
-.mainContainer {
-    background-image: url("../svg/minor_grid_lines.svg");
-    height: 100%;
-    width: 100%;
-    margin: auto;
-    text-align: center;
-}
 
-.subContainer {
-    height:850px;
-    width:1024px;
-    position: relative;
-    margin: auto;
-}
-
-.div-17 {
-    margin: auto;
-    width: 100%;
-    vertical-align: bottom;
-    text-align: center;
-}
 
 .chart {
     margin:0;
