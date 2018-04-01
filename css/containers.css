@@ -4,9 +4,9 @@
 }
 
 body {
-    height: 100%;
-    width: 5000px;
-    margin: auto;
+    height: auto;
+    width: auto;
+    margin: 0;
     text-align: center;
     background-color: #0084E9;
     background-image:
@@ -25,9 +25,18 @@ body {
     background-position: 0 -0.5em;
 }
 
-#central_core {
+.mainContainer {
     width: 100%;
     height: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.central_core {
+    height:850px;
+    width:1024px;
+    position: relative;
+    margin: auto;
 }
 
 #column_2 {
